@@ -1,0 +1,2 @@
+language = "bash"
+run = "cd c-c++ && clang -ggdb -O0 reverse_string.c -o reverse_string && ./reverse_string"
